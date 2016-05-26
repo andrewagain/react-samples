@@ -1,0 +1,20 @@
+.title {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.email {
+  padding: .5rem;
+}
+
+.submitButton {
+  padding: .5rem;
+  margin-top: .5rem;
+  border: 1px solid #2F79AD;
+  border-radius: 4px;
+  background-color: #6DB9EE;
+}
+
+.submitButton:hover {
+  background-color: #2F79AD;
+}

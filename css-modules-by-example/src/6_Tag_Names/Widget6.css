@@ -1,0 +1,17 @@
+input.large {
+  font-size: 20px;
+}
+
+.medium input {
+  font-size: 14px;
+}
+
+.tiny * {
+  font-size: 9px;
+}
+
+/* Don't do this!
+   This style will be global. */
+input {
+  padding: 0.5rem;
+}

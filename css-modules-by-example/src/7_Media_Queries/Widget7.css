@@ -1,0 +1,15 @@
+.small {
+  opacity: 0.2;
+}
+.large {
+  opacity: 1.0;
+}
+
+@media (max-width: 600px) {
+  .small {
+    opacity: 1.0;
+  }
+  .large {
+    opacity: 0.2;
+  }
+}
