@@ -1,6 +1,20 @@
 React Samples
 ---
 
-When I want to show an example of how to use a particular React feature, I create a project directory in this repository.
+Various isolated examples for React and other JavaScript packages.
+
+
+Usage
+---
+
+To download just one of the samples, you can run this command. It will prompt you for which sample you want to download:
+
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/ahfarmer/react-samples/master/install.rb)"
+```
+
+
+More
+---
 
 For more React fun, see [andrewhfarmer.com](http://andrewhfarmer.com)
