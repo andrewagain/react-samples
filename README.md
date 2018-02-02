@@ -17,4 +17,4 @@ To download just one of the samples, you can run this command. It will prompt yo
 More
 ---
 
-For more React fun, see [andrewhfarmer.com](http://andrewhfarmer.com)
+For more React fun, see [javascriptstuff.com](https://www.javascriptstuff.com/)
